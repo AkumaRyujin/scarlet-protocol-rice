@@ -1,0 +1,111 @@
+{
+  "bar": {
+    "centerAnchor": "omarchy.clock",
+    "layout": {
+      "center": [
+        {
+          "id": "omarchy.indicators"
+        },
+        {
+          "id": "omarchy.keyboard-layout"
+        },
+        {
+          "format": "dddd HH:mm",
+          "formatAlt": "d MMMM 'W'ww yyyy",
+          "id": "omarchy.clock",
+          "verticalFormat": "HH\n—\nmm"
+        },
+        {
+          "id": "omarchy.weather"
+        },
+        {
+          "id": "sergio.cava-bg"
+        },
+        {
+          "id": "tablerase.ardoise"
+        },
+        {
+          "id": "omarchy.system-update"
+        }
+      ],
+      "left": [
+        {
+          "id": "sergio.menu"
+        },
+        {
+          "id": "sergio.active-window"
+        },
+        {
+          "id": "im0001gt.screens.workspaces"
+        },
+        {
+          "id": "blacksheep.winvm"
+        }
+      ],
+      "right": [
+        {
+          "id": "omarchy.tray"
+        },
+        {
+          "id": "omarchy.tailscale"
+        },
+        {
+          "id": "flux"
+        },
+        {
+          "id": "im0001gt.screens"
+        },
+        {
+          "id": "omarchy.agents"
+        },
+        {
+          "id": "omarchy.bluetooth"
+        },
+        {
+          "id": "omarchy.network"
+        },
+        {
+          "id": "omarchy.audio"
+        },
+        {
+          "id": "omarchy.monitor"
+        },
+        {
+          "id": "omarchy.power"
+        }
+      ]
+    },
+    "position": "top",
+    "transparent": false,
+    "id": "sergio.bar"
+  },
+  "cloneSourceRestores": [
+    "sergio.notifications",
+    "sergio.lock",
+    "sergio.menu"
+  ],
+  "disabledPlugins": [
+    "omarchy.osd",
+    "omarchy.notifications",
+    "omarchy.lock"
+  ],
+  "idle": {
+    "lock": 300,
+    "screensaver": 150
+  },
+  "plugins": [
+    {
+      "id": "sergio.notifications"
+    },
+    {
+      "id": "sergio.osd"
+    },
+    {
+      "id": "sergio.lock"
+    },
+    {
+      "id": "macos.dock"
+    }
+  ],
+  "version": 1
+}

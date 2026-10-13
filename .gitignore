@@ -1,0 +1,11 @@
+# Backups & temp files
+*.bak*
+*.orig
+*.omacale-orig
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log

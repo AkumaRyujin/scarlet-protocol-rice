@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "sergio.window-pill",
+  "name": "Sergio Window Pill",
+  "version": "1.0.0",
+  "author": "Sergio",
+  "description": "Cyberpunk pill on window borders",
+  "kinds": [
+    "panel"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "panel": "WindowPillPanel.qml"
+  }
+}

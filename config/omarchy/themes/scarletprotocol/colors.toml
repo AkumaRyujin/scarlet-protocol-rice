@@ -1,0 +1,37 @@
+# Cyberpunk Scarlet Protocol Theme for Omarchy
+mode = "dark"
+
+accent = "#00f0ff"
+selection = "#005968"
+selection_foreground = "#ffffff"
+selection_background = "#005968"
+muted = "#7a5868"
+
+background = "#2e0612"
+dark_background = "#20040c"
+darker_background = "#140208"
+lighter_background = "#440a1c"
+
+foreground = "#ffffff"
+dark_foreground = "#966f80"
+light_foreground = "#ffeaee"
+bright_foreground = "#ffffff"
+
+hyprland_active_border = "rgba(00f0ffee) rgba(00c3ffee) 45deg"
+hyprland_inactive_border = "rgba(ff0055aa)"
+
+red = "#ff2a6d"
+yellow = "#ffd700"
+orange = "#ff6238"
+green = "#00ff9c"
+cyan = "#00f0ff"
+blue = "#00a2ff"
+magenta = "#e580e5"
+brown = "#8b1e3f"
+
+bright_red = "#ff4d88"
+bright_yellow = "#ffff00"
+bright_green = "#00ffc8"
+bright_cyan = "#00f0ff"
+bright_blue = "#38bdf8"
+bright_magenta = "#f5a0ff"

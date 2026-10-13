@@ -1,0 +1,23 @@
+{
+  "author": "IM0001GT",
+  "barWidget": {
+    "allowMultiple": false,
+    "category": "Compositor",
+    "defaultSection": "left",
+    "description": "Per-display workspaces. Right-click to name, pick an icon, or set Tile / Scroll / Float.",
+    "displayName": "Screens workspaces"
+  },
+  "description": "Per-display workspaces. Right-click to name, pick an icon, or set Tile / Scroll / Float.",
+  "entryPoints": {
+    "barWidget": "Workspaces.qml"
+  },
+  "homepage": "https://github.com/IM0001GT/omarchy-screens",
+  "id": "im0001gt.screens.workspaces",
+  "kinds": [
+    "bar-widget"
+  ],
+  "license": "MIT",
+  "name": "Screens workspaces",
+  "schemaVersion": 1,
+  "version": "1.15.2"
+}

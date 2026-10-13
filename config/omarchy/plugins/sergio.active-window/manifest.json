@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "sergio.active-window",
+  "name": "Active Window",
+  "version": "1.0.0",
+  "author": "Sergio",
+  "description": "Active window title pill for the top bar",
+  "kinds": [
+    "bar-widget"
+  ],
+  "barWidget": {
+    "displayName": "Active Window",
+    "description": "Foreground app name pill",
+    "category": "Compositor",
+    "allowMultiple": false,
+    "defaultSection": "left"
+  },
+  "entryPoints": {
+    "barWidget": "ActiveWindow.qml"
+  }
+}

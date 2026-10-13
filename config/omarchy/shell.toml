@@ -1,0 +1,38 @@
+[font]
+base-size = 12
+
+[bar]
+background = "#1c030b"
+background-alpha = 1.0
+text = "#00f0ff"
+active = "#00f0ff"
+
+[popups]
+background-alpha = 0.9
+
+[launcher]
+border = "#00f0ff"
+border-alpha = 1.0
+border-width = 2
+text = "#00f0ff"
+selected-text = "#ffffff"
+selected-background = "#00f0ff"
+selected-background-alpha = 0.4
+selected-border = "#00f0ff"
+selected-border-alpha = 0.8
+selected-border-width = 1
+
+[menu]
+background = "#1c030b"
+background-alpha = 0.98
+border = "#00f0ff"
+border-alpha = 1.0
+border-width = 2
+text = "#00f0ff"
+selected-text = "#ffffff"
+selected-background = "#00f0ff"
+selected-background-alpha = 0.4
+selected-border = "#00f0ff"
+selected-border-alpha = 0.8
+selected-border-width = 1
+
